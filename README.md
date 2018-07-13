@@ -1,1 +1,2 @@
-# cordova-plugin-adview-pro
+# cordova-plugin-adview
+cordova-plugin-adview teste
